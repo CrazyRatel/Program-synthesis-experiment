@@ -1,0 +1,24 @@
+c:\users\administrator\documents\visual studio 2010\projects\通讯录\通讯录\bin\Debug\通讯录.exe
+c:\users\administrator\documents\visual studio 2010\projects\通讯录\通讯录\bin\Debug\通讯录.pdb
+c:\users\administrator\documents\visual studio 2010\projects\通讯录\通讯录\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\projects\通讯录\通讯录\obj\x86\Debug\通讯录.Form1.resources
+c:\users\administrator\documents\visual studio 2010\projects\通讯录\通讯录\obj\x86\Debug\通讯录.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\projects\通讯录\通讯录\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\projects\通讯录\通讯录\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\projects\通讯录\通讯录\obj\x86\Debug\通讯录.exe
+c:\users\administrator\documents\visual studio 2010\projects\通讯录\通讯录\obj\x86\Debug\通讯录.pdb
+c:\users\administrator\documents\visual studio 2010\projects\通讯录\通讯录\obj\x86\Debug\通讯录.Insert.resources
+C:\Users\Administrator\Desktop\通讯录\通讯录\obj\x86\Debug\通讯录.exe
+C:\Users\Administrator\Desktop\通讯录\通讯录\obj\x86\Debug\通讯录.pdb
+C:\Users\长威\Desktop\通讯录 (1)\通讯录\bin\Debug\通讯录.exe
+C:\Users\长威\Desktop\通讯录 (1)\通讯录\bin\Debug\通讯录.pdb
+C:\Users\长威\Desktop\通讯录 (1)\通讯录\obj\x86\Debug\通讯录.csprojAssemblyReference.cache
+C:\Users\长威\Desktop\通讯录 (1)\通讯录\obj\x86\Debug\通讯录.Delete.resources
+C:\Users\长威\Desktop\通讯录 (1)\通讯录\obj\x86\Debug\通讯录.Form1.resources
+C:\Users\长威\Desktop\通讯录 (1)\通讯录\obj\x86\Debug\通讯录.Insert.resources
+C:\Users\长威\Desktop\通讯录 (1)\通讯录\obj\x86\Debug\通讯录.Properties.Resources.resources
+C:\Users\长威\Desktop\通讯录 (1)\通讯录\obj\x86\Debug\通讯录.Reset.resources
+C:\Users\长威\Desktop\通讯录 (1)\通讯录\obj\x86\Debug\通讯录.Search.resources
+C:\Users\长威\Desktop\通讯录 (1)\通讯录\obj\x86\Debug\通讯录.csproj.GenerateResource.cache
+C:\Users\长威\Desktop\通讯录 (1)\通讯录\obj\x86\Debug\通讯录.exe
+C:\Users\长威\Desktop\通讯录 (1)\通讯录\obj\x86\Debug\通讯录.pdb
